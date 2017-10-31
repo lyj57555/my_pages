@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Yongju&#39;s Pages</title>
-    <link>/contact/</link>
+    <link>https://lyj57555.github.io/my_papers/contact/</link>
     <description>Recent content in Contact on Yongju&#39;s Pages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lyj57555.github.io/my_papers/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
